@@ -20,13 +20,17 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Crypto Exchanges Upptime
-  introTitle: "This is an Upptime instance tracking various Crypto exchanges"
-  introMessage: This is an Upptime instance tracking various Crypto exchanges
+  introTitle: "James Gan's Crypto Exchange Uptime Tracker"
+  introMessage: This is an Upptime instance tracking various Crypto exchanges, if you like it, please check out the Blockchain course I created in my Master's program at Georgia Tech at https://chain.courses to learn about Blockchain and Cryptocurrency!
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Chain.Courses
+      href: https://chain.courses/
+    - title: James
+      href: https://bellevue.tech
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
