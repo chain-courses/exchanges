@@ -4,19 +4,19 @@
     "url": "https://paypal.com",
     "icon": "https://favicons.githubusercontent.com/paypal.com",
     "slug": "pay-pal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 491,
-    "timeWeek": 911,
-    "timeMonth": 976,
-    "timeYear": 974,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 992,
+    "timeDay": 1123,
+    "timeWeek": 1016,
+    "timeMonth": 1000,
+    "timeYear": 992,
     "dailyMinutesDown": {
-      "2021-02-04": 0
+      "2021-02-04": 7
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 135,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2021-02-04": 1164,
+      "2021-02-04": 1171,
       "2021-02-03": 1440,
       "2021-02-02": 1440,
       "2021-02-01": 1440,
