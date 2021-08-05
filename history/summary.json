@@ -28,18 +28,18 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "28.07%",
+    "uptime": "28.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.07%",
+    "uptimeYear": "28.05%",
     "time": 131,
     "timeDay": 81,
     "timeWeek": 61,
     "timeMonth": 58,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2021-08-05": 21,
+      "2021-08-05": 297,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
@@ -218,7 +218,7 @@
     "timeMonth": 65,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2021-08-05": 21,
+      "2021-08-05": 297,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
@@ -446,17 +446,19 @@
     "url": "https://bittrex.com/",
     "icon": "https://favicons.githubusercontent.com/bittrex.com",
     "slug": "bittrex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 232,
-    "timeWeek": 251,
-    "timeMonth": 302,
-    "timeYear": 262,
-    "dailyMinutesDown": {}
+    "time": 377,
+    "timeDay": 13133,
+    "timeWeek": 3474,
+    "timeMonth": 1106,
+    "timeYear": 377,
+    "dailyMinutesDown": {
+      "2021-08-05": 0
+    }
   }
 ]
