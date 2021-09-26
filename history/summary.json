@@ -40,7 +40,7 @@
     "timeMonth": 57,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2021-09-26": 841,
+      "2021-09-26": 854,
       "2021-09-25": 1440,
       "2021-09-24": 1440,
       "2021-09-23": 1440,
@@ -271,7 +271,7 @@
     "timeMonth": 80,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2021-09-26": 841,
+      "2021-09-26": 854,
       "2021-09-25": 1440,
       "2021-09-24": 1440,
       "2021-09-23": 1440,
@@ -551,19 +551,19 @@
     "url": "https://bittrex.com/",
     "icon": "https://favicons.githubusercontent.com/bittrex.com",
     "slug": "bittrex",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 347,
-    "timeDay": 144,
-    "timeWeek": 236,
-    "timeMonth": 228,
-    "timeYear": 347,
+    "time": 348,
+    "timeDay": 330,
+    "timeWeek": 288,
+    "timeMonth": 242,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2021-09-26": 0,
+      "2021-09-26": 13,
       "2021-08-05": 23
     }
   }
