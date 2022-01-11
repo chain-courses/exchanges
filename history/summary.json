@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 837,
-    "timeDay": 815,
+    "timeDay": 509,
     "timeWeek": 566,
-    "timeMonth": 615,
-    "timeYear": 833,
+    "timeMonth": 614,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2021-07-28": 75,
       "2021-06-23": 39
@@ -26,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "16.33%",
+    "uptime": "16.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.41%",
+    "uptimeYear": "13.14%",
     "time": 103,
-    "timeDay": 81,
-    "timeWeek": 62,
+    "timeDay": 59,
+    "timeWeek": 64,
     "timeMonth": 77,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2022-01-10": 27,
+      "2022-01-11": 28,
+      "2022-01-10": 1440,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
@@ -369,12 +370,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 94,
-    "timeDay": 136,
-    "timeWeek": 77,
+    "timeDay": 58,
+    "timeWeek": 76,
     "timeMonth": 77,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2022-01-10": 27,
+      "2022-01-11": 28,
+      "2022-01-10": 1440,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
@@ -737,8 +739,7 @@
       "2021-01-15": 1440,
       "2021-01-14": 1440,
       "2021-01-13": 1440,
-      "2021-01-12": 1440,
-      "2021-01-11": 1440
+      "2021-01-12": 1440
     }
   },
   {
@@ -753,10 +754,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 360,
-    "timeWeek": 266,
-    "timeMonth": 311,
-    "timeYear": 336,
+    "timeDay": 290,
+    "timeWeek": 276,
+    "timeMonth": 297,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2021-08-05": 23
     }
