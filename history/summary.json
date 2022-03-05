@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 811,
-    "timeDay": 295,
-    "timeWeek": 542,
-    "timeMonth": 632,
-    "timeYear": 763,
+    "timeDay": 584,
+    "timeWeek": 547,
+    "timeMonth": 634,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2021-07-28": 75,
       "2021-06-23": 39
@@ -26,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "14.32%",
+    "uptime": "14.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 98,
-    "timeDay": 85,
-    "timeWeek": 65,
+    "time": 97,
+    "timeDay": 40,
+    "timeWeek": 57,
     "timeMonth": 67,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2022-03-04": 36,
+      "2022-03-05": 34,
+      "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
@@ -400,8 +401,7 @@
       "2021-03-09": 1440,
       "2021-03-08": 1440,
       "2021-03-07": 1440,
-      "2021-03-06": 1440,
-      "2021-03-05": 1440
+      "2021-03-06": 1440
     }
   },
   {
@@ -416,12 +416,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 94,
-    "timeDay": 89,
-    "timeWeek": 86,
-    "timeMonth": 94,
+    "timeDay": 85,
+    "timeWeek": 79,
+    "timeMonth": 93,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2022-03-04": 36,
+      "2022-03-05": 34,
+      "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
@@ -784,8 +785,7 @@
       "2021-03-09": 1440,
       "2021-03-08": 1440,
       "2021-03-07": 1440,
-      "2021-03-06": 1440,
-      "2021-03-05": 1440
+      "2021-03-06": 1440
     }
   },
   {
@@ -799,10 +799,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 666,
-    "timeWeek": 298,
-    "timeMonth": 246,
+    "time": 323,
+    "timeDay": 141,
+    "timeWeek": 279,
+    "timeMonth": 244,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2021-08-05": 23
