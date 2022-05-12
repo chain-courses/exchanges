@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 816,
-    "timeDay": 583,
-    "timeWeek": 518,
-    "timeMonth": 1312,
+    "time": 815,
+    "timeDay": 614,
+    "timeWeek": 549,
+    "timeMonth": 1311,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2021-07-28": 75,
@@ -26,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "12.37%",
+    "uptime": "12.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 90,
-    "timeDay": 38,
-    "timeWeek": 63,
+    "timeDay": 88,
+    "timeWeek": 70,
     "timeMonth": 63,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2022-05-11": 42,
+      "2022-05-12": 41,
+      "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
@@ -400,8 +401,7 @@
       "2021-05-16": 1440,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
-      "2021-05-13": 1440,
-      "2021-05-12": 1440
+      "2021-05-13": 1440
     }
   },
   {
@@ -416,12 +416,13 @@
     "uptimeMonth": "7.50%",
     "uptimeYear": "0.51%",
     "time": 95,
-    "timeDay": 64,
-    "timeWeek": 91,
-    "timeMonth": 110,
+    "timeDay": 51,
+    "timeWeek": 85,
+    "timeMonth": 107,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2022-05-11": 42,
+      "2022-05-12": 41,
+      "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
@@ -783,8 +784,7 @@
       "2021-05-16": 1440,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
-      "2021-05-13": 1440,
-      "2021-05-12": 1440
+      "2021-05-13": 1440
     }
   },
   {
@@ -799,10 +799,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 331,
-    "timeDay": 138,
-    "timeWeek": 239,
-    "timeMonth": 505,
-    "timeYear": 360,
+    "timeDay": 249,
+    "timeWeek": 242,
+    "timeMonth": 504,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2022-05-09": 20,
       "2021-08-05": 23
