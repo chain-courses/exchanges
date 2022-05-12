@@ -37,7 +37,7 @@
     "timeMonth": 63,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2022-05-12": 41,
+      "2022-05-12": 478,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
@@ -421,7 +421,7 @@
     "timeMonth": 107,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2022-05-12": 41,
+      "2022-05-12": 479,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
@@ -792,9 +792,9 @@
     "url": "https://bittrex.com/",
     "icon": "https://favicons.githubusercontent.com/bittrex.com",
     "slug": "bittrex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -804,6 +804,7 @@
     "timeMonth": 504,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2022-05-12": 0,
       "2022-05-09": 20,
       "2021-08-05": 23
     }
