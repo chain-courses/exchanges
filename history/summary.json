@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 809,
-    "timeDay": 681,
-    "timeWeek": 1583,
+    "time": 810,
+    "timeDay": 957,
+    "timeWeek": 1626,
     "timeMonth": 934,
-    "timeYear": 749,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2021-07-28": 75,
       "2021-06-23": 39
@@ -26,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "11.62%",
+    "uptime": "11.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 73,
-    "timeDay": 26,
-    "timeWeek": 41,
-    "timeMonth": 69,
+    "time": 72,
+    "timeDay": 61,
+    "timeWeek": 44,
+    "timeMonth": 67,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2022-06-12": 41,
+      "2022-06-13": 44,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -400,8 +401,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -416,12 +416,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.51%",
     "time": 92,
-    "timeDay": 105,
-    "timeWeek": 114,
+    "timeDay": 103,
+    "timeWeek": 111,
     "timeMonth": 96,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2022-06-12": 41,
+      "2022-06-13": 44,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -783,8 +784,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -796,12 +796,12 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.80%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.89%",
     "time": 348,
-    "timeDay": 128,
-    "timeWeek": 209,
-    "timeMonth": 479,
+    "timeDay": 198,
+    "timeWeek": 211,
+    "timeMonth": 486,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2022-06-03": 73,
