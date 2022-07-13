@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 773,
-    "timeDay": 1071,
-    "timeWeek": 944,
-    "timeMonth": 875,
+    "timeDay": 650,
+    "timeWeek": 931,
+    "timeMonth": 863,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2021-07-28": 75
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "11.00%",
+    "uptime": "10.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 63,
-    "timeDay": 116,
-    "timeWeek": 68,
-    "timeMonth": 75,
+    "timeDay": 33,
+    "timeWeek": 66,
+    "timeMonth": 74,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2022-07-12": 47,
+      "2022-07-13": 43,
+      "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
@@ -399,8 +400,7 @@
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
-      "2021-07-14": 1440,
-      "2021-07-13": 1440
+      "2021-07-14": 1440
     }
   },
   {
@@ -415,12 +415,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.51%",
     "time": 90,
-    "timeDay": 80,
-    "timeWeek": 73,
+    "timeDay": 104,
+    "timeWeek": 83,
     "timeMonth": 93,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2022-07-12": 47,
+      "2022-07-13": 43,
+      "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
@@ -782,8 +783,7 @@
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
-      "2021-07-14": 1440,
-      "2021-07-13": 1440
+      "2021-07-14": 1440
     }
   },
   {
@@ -798,10 +798,10 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.86%",
     "time": 345,
-    "timeDay": 228,
-    "timeWeek": 269,
-    "timeMonth": 223,
-    "timeYear": 364,
+    "timeDay": 264,
+    "timeWeek": 283,
+    "timeMonth": 224,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2022-06-30": 99,
       "2022-06-29": 27,
