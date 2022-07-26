@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 771,
-    "timeDay": 585,
-    "timeWeek": 788,
-    "timeMonth": 837,
-    "timeYear": 763,
+    "timeDay": 940,
+    "timeWeek": 802,
+    "timeMonth": 844,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2021-07-28": 75
     }
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "10.75%",
+    "uptime": "10.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 63,
-    "timeDay": 95,
-    "timeWeek": 62,
+    "timeDay": 97,
+    "timeWeek": 67,
     "timeMonth": 72,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-07-25": 45,
+      "2022-07-26": 48,
+      "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -399,8 +400,7 @@
       "2021-07-30": 1440,
       "2021-07-29": 1440,
       "2021-07-28": 1440,
-      "2021-07-27": 1440,
-      "2021-07-26": 1440
+      "2021-07-27": 1440
     }
   },
   {
@@ -409,18 +409,19 @@
     "icon": "https://favicons.githubusercontent.com/www.kraken.com",
     "slug": "kraken",
     "status": "down",
-    "uptime": "0.33%",
+    "uptime": "0.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.51%",
     "time": 89,
-    "timeDay": 143,
-    "timeWeek": 99,
-    "timeMonth": 90,
+    "timeDay": 136,
+    "timeWeek": 100,
+    "timeMonth": 91,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2022-07-25": 45,
+      "2022-07-26": 48,
+      "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -782,8 +783,7 @@
       "2021-07-30": 1440,
       "2021-07-29": 1440,
       "2021-07-28": 1440,
-      "2021-07-27": 1440,
-      "2021-07-26": 1440
+      "2021-07-27": 1440
     }
   },
   {
@@ -798,9 +798,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.86%",
     "time": 346,
-    "timeDay": 235,
-    "timeWeek": 208,
-    "timeMonth": 215,
+    "timeDay": 266,
+    "timeWeek": 205,
+    "timeMonth": 217,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2022-06-30": 99,
