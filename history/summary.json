@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 769,
-    "timeDay": 804,
-    "timeWeek": 644,
-    "timeMonth": 793,
-    "timeYear": 762,
+    "timeDay": 911,
+    "timeWeek": 663,
+    "timeMonth": 795,
+    "timeYear": 763,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "10.48%",
+    "uptime": "10.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 64,
-    "timeDay": 51,
-    "timeWeek": 67,
-    "timeMonth": 73,
+    "timeDay": 111,
+    "timeWeek": 73,
+    "timeMonth": 75,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-08-09": 51,
+      "2022-08-10": 43,
+      "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
@@ -397,8 +398,7 @@
       "2021-08-14": 1440,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
-      "2021-08-11": 1440,
-      "2021-08-10": 1440
+      "2021-08-11": 1440
     }
   },
   {
@@ -413,12 +413,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.51%",
     "time": 88,
-    "timeDay": 64,
-    "timeWeek": 88,
+    "timeDay": 105,
+    "timeWeek": 91,
     "timeMonth": 95,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2022-08-09": 51,
+      "2022-08-10": 43,
+      "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
@@ -780,8 +781,7 @@
       "2021-08-14": 1440,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
-      "2021-08-11": 1440,
-      "2021-08-10": 1440
+      "2021-08-11": 1440
     }
   },
   {
@@ -796,9 +796,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 345,
-    "timeDay": 154,
-    "timeWeek": 208,
-    "timeMonth": 212,
+    "timeDay": 221,
+    "timeWeek": 215,
+    "timeMonth": 213,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2022-06-30": 99,
