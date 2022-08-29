@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 767,
-    "timeDay": 929,
-    "timeWeek": 806,
-    "timeMonth": 748,
-    "timeYear": 766,
+    "timeDay": 813,
+    "timeWeek": 816,
+    "timeMonth": 749,
+    "timeYear": 765,
     "dailyMinutesDown": {}
   },
   {
@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "10.37%",
+    "uptime": "10.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.01%",
-    "uptimeMonth": "2.47%",
-    "uptimeYear": "0.36%",
+    "uptimeWeek": "33.30%",
+    "uptimeMonth": "5.76%",
+    "uptimeYear": "0.64%",
     "time": 64,
-    "timeDay": 114,
-    "timeWeek": 89,
+    "timeDay": 41,
+    "timeWeek": 84,
     "timeMonth": 78,
     "timeYear": 65,
     "dailyMinutesDown": {
@@ -395,8 +395,7 @@
       "2021-09-02": 1440,
       "2021-09-01": 1440,
       "2021-08-31": 1440,
-      "2021-08-30": 1440,
-      "2021-08-29": 1440
+      "2021-08-30": 1440
     }
   },
   {
@@ -405,14 +404,14 @@
     "icon": "https://favicons.githubusercontent.com/www.kraken.com",
     "slug": "kraken",
     "status": "down",
-    "uptime": "0.53%",
+    "uptime": "0.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.01%",
-    "uptimeMonth": "2.47%",
-    "uptimeYear": "0.87%",
+    "uptimeWeek": "33.30%",
+    "uptimeMonth": "5.76%",
+    "uptimeYear": "1.15%",
     "time": 87,
-    "timeDay": 125,
-    "timeWeek": 95,
+    "timeDay": 72,
+    "timeWeek": 87,
     "timeMonth": 95,
     "timeYear": 90,
     "dailyMinutesDown": {
@@ -776,8 +775,7 @@
       "2021-09-02": 1440,
       "2021-09-01": 1440,
       "2021-08-31": 1440,
-      "2021-08-30": 1440,
-      "2021-08-29": 1440
+      "2021-08-30": 1440
     }
   },
   {
@@ -792,9 +790,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 345,
-    "timeDay": 280,
-    "timeWeek": 232,
-    "timeMonth": 237,
+    "timeDay": 193,
+    "timeWeek": 221,
+    "timeMonth": 238,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2022-06-30": 99,
