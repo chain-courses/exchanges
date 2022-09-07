@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 773,
-    "timeDay": 937,
-    "timeWeek": 1050,
-    "timeMonth": 846,
-    "timeYear": 775,
+    "timeDay": 663,
+    "timeWeek": 1040,
+    "timeMonth": 842,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   },
   {
@@ -23,13 +23,13 @@
     "icon": "https://favicons.githubusercontent.com/www.coinbase.com",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "11.68%",
+    "uptime": "11.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.06%",
-    "uptimeYear": "2.83%",
+    "uptimeMonth": "35.35%",
+    "uptimeYear": "3.10%",
     "time": 64,
-    "timeDay": 65,
+    "timeDay": 82,
     "timeWeek": 65,
     "timeMonth": 74,
     "timeYear": 65,
@@ -386,8 +386,7 @@
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
-      "2021-09-08": 1440,
-      "2021-09-07": 1440
+      "2021-09-08": 1440
     }
   },
   {
@@ -396,15 +395,15 @@
     "icon": "https://favicons.githubusercontent.com/www.kraken.com",
     "slug": "kraken",
     "status": "down",
-    "uptime": "1.98%",
+    "uptime": "2.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.05%",
-    "uptimeYear": "3.34%",
+    "uptimeMonth": "35.35%",
+    "uptimeYear": "3.61%",
     "time": 87,
-    "timeDay": 87,
-    "timeWeek": 96,
-    "timeMonth": 94,
+    "timeDay": 119,
+    "timeWeek": 106,
+    "timeMonth": 95,
     "timeYear": 90,
     "dailyMinutesDown": {
       "2022-08-26": 1015,
@@ -758,8 +757,7 @@
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
-      "2021-09-08": 1440,
-      "2021-09-07": 1440
+      "2021-09-08": 1440
     }
   },
   {
@@ -774,9 +772,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 343,
-    "timeDay": 228,
-    "timeWeek": 211,
-    "timeMonth": 235,
+    "timeDay": 276,
+    "timeWeek": 228,
+    "timeMonth": 238,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2022-06-30": 99,
