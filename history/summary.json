@@ -11,9 +11,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 775,
-    "timeDay": 958,
-    "timeWeek": 778,
-    "timeMonth": 827,
+    "timeDay": 777,
+    "timeWeek": 768,
+    "timeMonth": 817,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2022-10-15": 56
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coinbase.com.ico",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "18.06%",
+    "uptime": "18.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.98%",
+    "uptimeYear": "16.26%",
     "time": 67,
-    "timeDay": 96,
-    "timeWeek": 101,
+    "timeDay": 33,
+    "timeWeek": 88,
     "timeMonth": 89,
     "timeYear": 69,
     "dailyMinutesDown": {
@@ -340,8 +340,7 @@
       "2021-10-29": 1440,
       "2021-10-28": 1440,
       "2021-10-27": 1440,
-      "2021-10-26": 1440,
-      "2021-10-25": 1440
+      "2021-10-26": 1440
     }
   },
   {
@@ -350,14 +349,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraken.com.ico",
     "slug": "kraken",
     "status": "down",
-    "uptime": "9.06%",
+    "uptime": "9.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.49%",
+    "uptimeYear": "16.77%",
     "time": 89,
-    "timeDay": 187,
-    "timeWeek": 116,
+    "timeDay": 98,
+    "timeWeek": 111,
     "timeMonth": 111,
     "timeYear": 94,
     "dailyMinutesDown": {
@@ -664,8 +663,7 @@
       "2021-10-29": 1440,
       "2021-10-28": 1440,
       "2021-10-27": 1440,
-      "2021-10-26": 1440,
-      "2021-10-25": 1440
+      "2021-10-26": 1440
     }
   },
   {
@@ -679,10 +677,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 341,
-    "timeDay": 320,
-    "timeWeek": 311,
-    "timeMonth": 304,
+    "time": 340,
+    "timeDay": 182,
+    "timeWeek": 296,
+    "timeMonth": 303,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2022-06-30": 99,
