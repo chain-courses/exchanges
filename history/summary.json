@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 782,
-    "timeDay": 833,
-    "timeWeek": 914,
-    "timeMonth": 854,
+    "timeDay": 1023,
+    "timeWeek": 918,
+    "timeMonth": 862,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-10-31": 47,
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coinbase.com.ico",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "21.71%",
+    "uptime": "21.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.47%",
+    "uptimeYear": "24.75%",
     "time": 66,
-    "timeDay": 46,
-    "timeWeek": 48,
-    "timeMonth": 56,
+    "timeDay": 47,
+    "timeWeek": 45,
+    "timeMonth": 57,
     "timeYear": 69,
     "dailyMinutesDown": {
       "2022-08-26": 1015,
@@ -310,8 +310,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   },
   {
@@ -320,14 +319,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraken.com.ico",
     "slug": "kraken",
     "status": "down",
-    "uptime": "13.11%",
+    "uptime": "13.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.98%",
+    "uptimeYear": "25.26%",
     "time": 90,
-    "timeDay": 65,
-    "timeWeek": 67,
+    "timeDay": 82,
+    "timeWeek": 70,
     "timeMonth": 88,
     "timeYear": 94,
     "dailyMinutesDown": {
@@ -603,8 +602,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   },
   {
@@ -619,10 +617,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 288,
-    "timeDay": 184,
-    "timeWeek": 239,
-    "timeMonth": 230,
-    "timeYear": 293,
+    "timeDay": 205,
+    "timeWeek": 250,
+    "timeMonth": 231,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2022-06-30": 99,
       "2022-06-29": 27,
