@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 784,
-    "timeDay": 930,
-    "timeWeek": 829,
-    "timeMonth": 826,
-    "timeYear": 810,
+    "timeDay": 827,
+    "timeWeek": 823,
+    "timeMonth": 824,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2022-10-31": 47,
       "2022-10-15": 56
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coinbase.com.ico",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "23.68%",
+    "uptime": "23.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.40%",
+    "uptimeYear": "29.68%",
     "time": 66,
     "timeDay": 52,
-    "timeWeek": 73,
-    "timeMonth": 62,
+    "timeWeek": 69,
+    "timeMonth": 63,
     "timeYear": 70,
     "dailyMinutesDown": {
       "2022-08-26": 1015,
@@ -292,8 +292,7 @@
       "2021-12-17": 1440,
       "2021-12-16": 1440,
       "2021-12-15": 1440,
-      "2021-12-14": 1440,
-      "2021-12-13": 1440
+      "2021-12-14": 1440
     }
   },
   {
@@ -302,14 +301,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraken.com.ico",
     "slug": "kraken",
     "status": "down",
-    "uptime": "15.30%",
+    "uptime": "15.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.91%",
+    "uptimeYear": "30.19%",
     "time": 91,
-    "timeDay": 58,
-    "timeWeek": 88,
+    "timeDay": 86,
+    "timeWeek": 81,
     "timeMonth": 82,
     "timeYear": 95,
     "dailyMinutesDown": {
@@ -567,8 +566,7 @@
       "2021-12-17": 1440,
       "2021-12-16": 1440,
       "2021-12-15": 1440,
-      "2021-12-14": 1440,
-      "2021-12-13": 1440
+      "2021-12-14": 1440
     }
   },
   {
@@ -583,9 +581,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 291,
-    "timeDay": 181,
-    "timeWeek": 232,
-    "timeMonth": 275,
+    "timeDay": 184,
+    "timeWeek": 215,
+    "timeMonth": 272,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2022-06-30": 99,
