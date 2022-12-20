@@ -6,9 +6,9 @@
     "slug": "pay-pal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 785,
     "timeDay": 676,
@@ -16,7 +16,6 @@
     "timeMonth": 796,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2022-12-19": 13,
       "2022-10-31": 47,
       "2022-10-15": 56
     }
@@ -29,8 +28,8 @@
     "status": "down",
     "uptime": "23.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.25%",
-    "uptimeMonth": "79.81%",
+    "uptimeWeek": "11.49%",
+    "uptimeMonth": "79.63%",
     "uptimeYear": "29.90%",
     "time": 70,
     "timeDay": 92,
@@ -38,7 +37,8 @@
     "timeMonth": 116,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-12-19": 1403,
+      "2022-12-20": 39,
+      "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
@@ -293,8 +293,7 @@
       "2021-12-24": 1440,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
-      "2021-12-21": 1440,
-      "2021-12-20": 1440
+      "2021-12-21": 1440
     }
   },
   {
@@ -303,11 +302,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraken.com.ico",
     "slug": "kraken",
     "status": "down",
-    "uptime": "16.23%",
+    "uptime": "16.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.09%",
+    "uptimeYear": "32.11%",
     "time": 91,
     "timeDay": 145,
     "timeWeek": 88,
@@ -561,8 +560,7 @@
       "2021-12-24": 1440,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
-      "2021-12-21": 1440,
-      "2021-12-20": 1440
+      "2021-12-21": 1440
     }
   },
   {
