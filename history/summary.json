@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 786,
-    "timeDay": 809,
-    "timeWeek": 747,
-    "timeMonth": 744,
-    "timeYear": 813,
+    "timeDay": 775,
+    "timeWeek": 757,
+    "timeMonth": 747,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2022-10-31": 47,
       "2022-10-15": 56
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coinbase.com.ico",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "23.41%",
+    "uptime": "23.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.34%",
+    "uptimeMonth": "50.05%",
     "uptimeYear": "29.90%",
     "time": 70,
-    "timeDay": 27,
-    "timeWeek": 53,
-    "timeMonth": 113,
-    "timeYear": 73,
+    "timeDay": 246,
+    "timeWeek": 72,
+    "timeMonth": 120,
+    "timeYear": 74,
     "dailyMinutesDown": {
-      "2022-12-28": 37,
+      "2022-12-29": 39,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -292,8 +293,7 @@
       "2022-01-02": 1440,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
-      "2021-12-30": 1440,
-      "2021-12-29": 1440
+      "2021-12-30": 1440
     }
   },
   {
@@ -302,15 +302,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraken.com.ico",
     "slug": "kraken",
     "status": "down",
-    "uptime": "17.15%",
+    "uptime": "17.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.30%",
+    "uptimeYear": "34.57%",
     "time": 91,
-    "timeDay": 55,
-    "timeWeek": 83,
-    "timeMonth": 86,
+    "timeDay": 70,
+    "timeWeek": 81,
+    "timeMonth": 87,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2022-08-26": 1015,
@@ -551,8 +551,7 @@
       "2022-01-02": 1440,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
-      "2021-12-30": 1440,
-      "2021-12-29": 1440
+      "2021-12-30": 1440
     }
   },
   {
@@ -566,10 +565,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 290,
-    "timeDay": 170,
-    "timeWeek": 186,
-    "timeMonth": 246,
+    "time": 291,
+    "timeDay": 408,
+    "timeWeek": 208,
+    "timeMonth": 254,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2022-06-30": 99,
