@@ -6,17 +6,16 @@
     "slug": "pay-pal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 799,
-    "timeDay": 843,
-    "timeWeek": 848,
-    "timeMonth": 962,
-    "timeYear": 849,
+    "time": 801,
+    "timeDay": 897,
+    "timeWeek": 863,
+    "timeMonth": 812,
+    "timeYear": 850,
     "dailyMinutesDown": {
-      "2023-02-02": 14,
       "2022-10-31": 47,
       "2022-10-15": 56
     }
@@ -27,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coinbase.com.ico",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "22.29%",
+    "uptime": "22.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "29.90%",
     "time": 70,
-    "timeDay": 65,
-    "timeWeek": 60,
-    "timeMonth": 67,
+    "timeDay": 74,
+    "timeWeek": 61,
+    "timeMonth": 68,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-02-02": 913,
+      "2023-02-03": 42,
+      "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -293,8 +293,7 @@
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
-      "2022-02-04": 1440,
-      "2022-02-03": 1440
+      "2022-02-04": 1440
     }
   },
   {
@@ -303,14 +302,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraken.com.ico",
     "slug": "kraken",
     "status": "down",
-    "uptime": "21.11%",
+    "uptime": "21.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.33%",
+    "uptimeYear": "44.43%",
     "time": 92,
-    "timeDay": 93,
-    "timeWeek": 106,
+    "timeDay": 100,
+    "timeWeek": 107,
     "timeMonth": 91,
     "timeYear": 96,
     "dailyMinutesDown": {
@@ -516,8 +515,7 @@
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
-      "2022-02-04": 1440,
-      "2022-02-03": 1440
+      "2022-02-04": 1440
     }
   },
   {
@@ -532,9 +530,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 286,
-    "timeDay": 146,
-    "timeWeek": 199,
-    "timeMonth": 246,
+    "timeDay": 250,
+    "timeWeek": 211,
+    "timeMonth": 248,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2022-06-30": 99,
