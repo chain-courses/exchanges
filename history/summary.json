@@ -4,7 +4,7 @@
     "url": "https://paypal.com",
     "icon": "https://icons.duckduckgo.com/ip3/paypal.com.ico",
     "slug": "pay-pal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 812,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2023-02-03": 0,
       "2022-10-31": 47,
       "2022-10-15": 56
     }
@@ -26,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coinbase.com.ico",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "22.28%",
+    "uptime": "22.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +38,7 @@
     "timeMonth": 68,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-02-03": 42,
+      "2023-02-03": 817,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -302,11 +303,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraken.com.ico",
     "slug": "kraken",
     "status": "down",
-    "uptime": "21.15%",
+    "uptime": "21.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.43%",
+    "uptimeYear": "44.58%",
     "time": 92,
     "timeDay": 100,
     "timeWeek": 107,
