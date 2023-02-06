@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 801,
-    "timeDay": 701,
-    "timeWeek": 765,
-    "timeMonth": 798,
+    "timeDay": 753,
+    "timeWeek": 763,
+    "timeMonth": 795,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2023-02-03": 16,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coinbase.com.ico",
     "slug": "coinbase",
     "status": "down",
-    "uptime": "22.22%",
+    "uptime": "22.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "29.90%",
     "time": 70,
-    "timeDay": 57,
-    "timeWeek": 64,
-    "timeMonth": 70,
+    "timeDay": 22,
+    "timeWeek": 59,
+    "timeMonth": 68,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-02-05": 43,
+      "2023-02-06": 38,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -293,8 +294,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   },
   {
@@ -303,16 +303,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraken.com.ico",
     "slug": "kraken",
     "status": "down",
-    "uptime": "21.36%",
+    "uptime": "21.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.98%",
+    "uptimeYear": "45.26%",
     "time": 92,
-    "timeDay": 150,
-    "timeWeek": 122,
-    "timeMonth": 97,
-    "timeYear": 96,
+    "timeDay": 136,
+    "timeWeek": 128,
+    "timeMonth": 99,
+    "timeYear": 97,
     "dailyMinutesDown": {
       "2022-08-26": 1015,
       "2022-08-25": 1440,
@@ -513,8 +513,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   },
   {
@@ -529,9 +528,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 286,
-    "timeDay": 334,
-    "timeWeek": 242,
-    "timeMonth": 257,
+    "timeDay": 303,
+    "timeWeek": 251,
+    "timeMonth": 263,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2022-06-30": 99,
