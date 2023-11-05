@@ -1,7 +1,7 @@
 url: https://paypal.com
-status: down
-code: 429
-responseTime: 171
-lastUpdated: 2023-11-05T16:46:08.089Z
+status: up
+code: 200
+responseTime: 726
+lastUpdated: 2023-11-05T16:51:49.566Z
 startTime: 2020-12-28T06:30:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
